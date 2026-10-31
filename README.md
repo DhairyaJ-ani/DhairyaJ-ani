@@ -216,11 +216,13 @@ Contributing to a mobile application used by students, faculty, and staff at my 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DhairyaJ-ani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DhairyaJ-ani&show_icons=true&theme=tokyonight)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhairyaJ-ani&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DhairyaJ-ani&layout=compact&theme=tokyonight)
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhairyaJ-ani&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+## 📈 Contribution Activity
+
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=DhairyaJ-ani&theme=tokyo-night)
 
 </div>
 
