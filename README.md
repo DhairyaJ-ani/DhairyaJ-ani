@@ -6,7 +6,7 @@
 
 *Building systems that turn ambitious ideas into working software.*
 
-[![Portfolio](https://img.shields.io/badge/Developer-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani)
 [![GitHub followers](https://img.shields.io/github/followers/DhairyaJ-ani?style=for-the-badge&logo=github&label=Followers)](https://github.com/DhairyaJ-ani?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=DhairyaJ-ani&style=for-the-badge&color=blueviolet)](https://github.com/DhairyaJ-ani)
 
@@ -25,7 +25,7 @@ Rather than limiting myself to a single domain, I like exploring how different t
 - 🔭 **Currently building:** AI-powered environmental intelligence, 3D terrain reconstruction, and intelligent research tools.
 - 🧠 **Interests:** Full-stack development, applied AI/ML, geospatial computing, distributed systems, and interactive 3D applications.
 - 🏆 **Hackathons:** First-place hackathon finish and third place in a competitive programming competition.
-- 🌱 **Learning:** Better system architecture, model evaluation, scalable backend systems, and intelligent automation.
+- 🌱 **Learning:** System architecture, model evaluation, scalable backend systems, and intelligent automation.
 - ⚡ **Approach:** Build, experiment, measure, and iterate.
 
 ---
@@ -74,27 +74,27 @@ Rather than limiting myself to a single domain, I like exploring how different t
 
 ## 🚀 Featured Projects
 
-### 🌍 AirQ Insight
+### 🌍 [AirQ Insight](https://github.com/DhairyaJ-ani/AirQinsight)
 **AI-Powered Environmental Intelligence & Pollution Forecasting**
 
 Turning satellite observations into actionable environmental insights.
 
-AirQ Insight is an environmental intelligence platform that transforms coarse-resolution satellite observations into fine-grained pollutant maps and provides tools to investigate and forecast pollution.
+AirQ Insight transforms coarse-resolution satellite observations into fine-grained pollutant maps and provides tools to investigate and forecast pollution.
 
-- 🛰️ **Satellite Downscaling:** Processes satellite imagery, handles cloud-related gaps, and generates high-resolution pollutant distribution maps.
-- 🌬️ **Pollution Forecasting:** Combines physics-based modeling with AI-driven corrections to predict future pollution plume movement.
-- 🧠 **Agentic AI:** Orchestrates specialized agents for analysis, forecasting, explainability, compliance, and reporting.
+- 🛰️ **Satellite Downscaling:** Processes satellite imagery, handles cloud-related gaps, and generates higher-resolution pollutant distribution maps.
+- 🌬️ **Pollution Forecasting:** Combines physics-based modelling with AI-driven corrections to predict future pollution plume movement.
+- 🧠 **Agentic AI:** Coordinates specialized agents for analysis, forecasting, explainability, compliance, and reporting.
 - 🔍 **Explainable AI:** Helps users investigate potential pollution sources and understand contributing factors.
 - 🧪 **What-If Simulator:** Enables scenario-based experimentation with emissions and environmental conditions.
-- 📄 **Automated Reporting:** Generates structured environmental reports through an AI-powered reporting workflow.
+- 📄 **Automated Reporting:** Generates structured environmental reports through an AI-powered workflow.
 
 **Core technologies:** Python · FastAPI · Machine Learning · Geospatial Processing · LangGraph · Next.js
 
-[![Explore Weave Research](https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/AirQinsight)
+[![Explore AirQ Insight](https://img.shields.io/badge/Explore-AirQ%20Insight-167D8D?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/AirQinsight)
 
 ---
 
-### 🏔️ TERRAFORM
+### 🏔️ [TERRAFORM](https://github.com/DhairyaJ-ani/Depth-Wizard)
 **Single-View Satellite Imagery → 3D Digital Surface Models → Disaster Intelligence**
 
 Reconstructing navigable 3D environments from satellite imagery.
@@ -102,35 +102,35 @@ Reconstructing navigable 3D environments from satellite imagery.
 TERRAFORM is a remote-sensing and disaster-intelligence platform designed to transform a single RGB satellite image into a reconstructed 3D terrain environment for visualization, analysis, and navigation.
 
 - 🛰️ **Depth Estimation:** Uses Depth Anything V2 to estimate depth from single-view imagery.
-- 🗺️ **DSM Reconstruction:** Builds Digital Surface Models with geospatial processing and scale-calibration workflows.
-- 🏙️ **Interactive 3D Terrain:** Provides a navigable environment with multiple camera perspectives and terrain visualization.
-- 🚨 **Disaster Intelligence:** Incorporates flood simulation, terrain-risk analysis, debris-related indicators, and uncertainty visualization.
-- 🧭 **Rescue Pathfinding:** Integrates path-planning algorithms such as A*, Dijkstra, Theta*, and D* Lite for route exploration.
+- 🗺️ **DSM Reconstruction:** Builds Digital Surface Models using geospatial processing and scale-calibration workflows.
+- 🏙️ **Interactive 3D Terrain:** Provides a navigable environment with terrain visualization and multiple camera perspectives.
+- 🚨 **Disaster Intelligence:** Incorporates flood simulation, terrain-risk analysis, and uncertainty visualization.
+- 🧭 **Rescue Pathfinding:** Integrates algorithms such as A*, Dijkstra, Theta*, and D* Lite for route exploration.
 - 🌐 **Geospatial Web Application:** Combines a React frontend with a FastAPI backend for interactive terrain analysis.
 
 **Core technologies:** Python · FastAPI · React · Three.js · Depth Anything V2 · Rasterio · GDAL
 
-[![Explore Weave Research](https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/Depth-Wizard)
+[![Explore TERRAFORM](https://img.shields.io/badge/Explore-TERRAFORM-2E8B57?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/Depth-Wizard)
 
 ---
 
-### 🕸️ Weave Research
+### 🕸️ [Weave Research](https://github.com/DhairyaJ-ani/Visualisation-Platform-WEAVE)
 **A Visual Research Workspace & Knowledge Graph for Your Browser Tabs**
 
 Turning scattered browsing sessions into a connected, searchable research environment.
 
-Weave Research is a visual knowledge-management platform that allows users to organize browser tabs, connect sources, annotate findings, and explore relationships between research materials.
+Weave Research helps users organize browser tabs, connect sources, annotate findings, and explore relationships between research materials.
 
 - 🗺️ **Visual Research Canvas:** Organizes sources as an interactive graph with customizable relationships and groups.
 - 🧠 **Knowledge Graphs:** Helps users discover connections between webpages, papers, videos, and repositories.
-- 🤖 **Multi-Agent AI:** Supports source understanding, graph organization, research assistance, and synthesis reporting.
+- 🤖 **Multi-Agent AI:** Supports source understanding, graph organization, research assistance, and synthesis.
 - 🔎 **Retrieval-Augmented Generation:** Answers questions using workspace-specific research context and source citations.
-- 📚 **Research Export:** Supports structured research exports, including Markdown, BibTeX, APA references, and Obsidian-compatible vaults.
+- 📚 **Research Export:** Supports structured exports, including Markdown, BibTeX, APA references, and Obsidian-compatible vaults.
 - 🔒 **Local-First Storage:** Uses SQLite to keep research data locally available, with AI functionality designed to remain optional.
 
 **Core technologies:** Python · FastAPI · Next.js · TypeScript · React Flow · SQLite · Chrome Extensions · Agentic AI
 
-[![Explore Weave Research](https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/Visualisation-Platform-WEAVE)
+[![Explore Weave Research](https://img.shields.io/badge/Explore-Weave%20Research-6C63FF?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/Visualisation-Platform-WEAVE)
 
 ---
 
@@ -212,17 +212,21 @@ Contributing to a mobile application used by students, faculty, and staff at my 
 
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DhairyaJ-ani&show_icons=true&theme=tokyonight)
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=DhairyaJ-ani&show_icons=true&theme=tokyonight" alt="GitHub Statistics" />
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DhairyaJ-ani&layout=compact&theme=tokyonight)
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DhairyaJ-ani&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 
-## 📈 Contribution Activity
+</div>
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=DhairyaJ-ani&theme=tokyo-night)
+📈 Contribution Activity
+
+<div align="center">
+
+[![Contribution Activity](https://img.shields.io/badge/View-Contribution%20Activity-6C63FF?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani?tab=overview)
 
 </div>
 
