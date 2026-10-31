@@ -90,6 +90,8 @@ AirQ Insight is an environmental intelligence platform that transforms coarse-re
 
 **Core technologies:** Python · FastAPI · Machine Learning · Geospatial Processing · LangGraph · Next.js
 
+[![Explore Weave Research](https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/AirQinsight)
+
 ---
 
 ### 🏔️ TERRAFORM
@@ -107,6 +109,8 @@ TERRAFORM is a remote-sensing and disaster-intelligence platform designed to tra
 - 🌐 **Geospatial Web Application:** Combines a React frontend with a FastAPI backend for interactive terrain analysis.
 
 **Core technologies:** Python · FastAPI · React · Three.js · Depth Anything V2 · Rasterio · GDAL
+
+[![Explore Weave Research](https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github)](https://github.com/DhairyaJ-ani/Depth-Wizard)
 
 ---
 
